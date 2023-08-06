@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋:sunglasses:
 
 <b>Olá, sou Júlio César, sou um estudante de programação, atualmente estou aprendendo:<b>
 <br>
