@@ -1,6 +1,6 @@
 ### Hi there 👋:sunglasses:
 
-<b>Olá, sou Júlio César, sou um estudante de programação, atualmente estou aprendendo:<b>
+<b>Olá, me chamo Júlio César, sou um estudante de programação, atualmente estou aprendendo:<b>
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="img-html">
